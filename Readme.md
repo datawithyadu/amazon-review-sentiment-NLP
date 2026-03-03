@@ -50,5 +50,13 @@ The model successfully classifies Amazon reviews based on sentiment using TF-IDF
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
+
+amazon-review-sentiment-NLP/
+│
+├── 1.amazon.ipynb
+├── requirements.txt
+├── README.md
+└── .gitignore
+
 
